@@ -1,0 +1,9 @@
+# My super plugin! Write some stuff below!
+
+word: 'Banana'
+favorite-number: 42
+likes-cake: true
+favorite-colors:
+  - 'Red'
+  - 'Blue'
+  - 'Green'
