@@ -1,0 +1,17 @@
+required-players: 2
+countdown-seconds: 30
+lobby-spawn:
+  world: 'world'
+  x: -277.5
+  y: 64
+  z: 2.5
+  yaw: 90
+  pitch: 0
+arenas:
+  0:
+    world: 'arena-template'
+    x: 20.5
+    y: -63
+    z: 11.5
+    yaw: 90
+    pitch: 0
