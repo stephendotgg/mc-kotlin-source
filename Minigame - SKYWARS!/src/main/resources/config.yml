@@ -1,0 +1,61 @@
+max-players: 4
+required-players: 2
+countdown-seconds: 30
+lobby-spawn:
+  world: 'world'
+  x: -277.5
+  y: 64
+  z: 2.5
+  yaw: 90
+  pitch: 0
+arenas:
+  0:
+    y-death: 10
+    world: 'arena-template'
+    arena-spawn:
+      x: 120.5
+      y: 36
+      z: -761.5
+      yaw: 0
+      pitch: 0
+    spawns:
+      0:
+        x: 121.5
+        y: 22
+        z: -730.5
+        yaw: 180
+        pitch: 0
+      1:
+        x: 146.5
+        y: 22
+        z: -740.5
+        yaw: 128
+        pitch: 0
+      3:
+        x: 152.5
+        y: 22
+        z: -763.5
+        yaw: 90
+        pitch: 0
+      4:
+        x: 143.5
+        y: 22
+        z: -785.5
+        yaw: 40
+        pitch: 0
+    chests:
+      - 'TIER_1|122|22|-762'
+      - 'TIER_1|120|22|-760'
+      - 'TIER_1|118|22|-762'
+      - 'TIER_1|120|22|-764'
+      - 'TIER_2|120|22|-772'
+      - 'TIER_2|130|22|-762'
+      - 'TIER_2|120|22|-752'
+      - 'TIER_2|110|22|-762'
+      - 'TIER_3|100|22|-738'
+      - 'TIER_3|125|22|-728'
+      - 'TIER_3|154|22|-767'
+      - 'TIER_3|140|22|-786'
+      - 'TIER_3|115|22|-796'
+      - 'TIER_3|90|22|-786'
+      - 'TIER_3|86|22|-757'

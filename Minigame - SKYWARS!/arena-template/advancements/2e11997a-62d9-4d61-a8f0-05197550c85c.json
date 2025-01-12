@@ -1,0 +1,16 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-01-10 16:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mushroom_fields": "2025-01-10 16:43:48 +0000",
+      "minecraft:plains": "2025-01-10 16:43:51 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

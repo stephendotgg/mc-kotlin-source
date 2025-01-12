@@ -1,0 +1,10 @@
+name: TestPlugin
+version: 1.0
+main: gg.stephen.test.Minigame
+api-version: 1.20
+description: Super cool test plugin!
+author: Stephen
+contributors: [Brandon, Josh]
+website: https://mcworkshop.org
+commands:
+  arena:
