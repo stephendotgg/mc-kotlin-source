@@ -47,9 +47,8 @@ class Arena(val id: Int, private val spawn: Location) {
             }
             players.clear()
 
-            val newWorld = WorldManager.resetArena(spawn.world!!.name + "-template")
-            newWorld?.let { world ->
-                spawn.world = world
+            WorldManager.resetArena(spawn.world!!.name + "-template")?.let {
+                spawn.world = it
             }
         }
 
