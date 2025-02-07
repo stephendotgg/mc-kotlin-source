@@ -6,5 +6,3 @@ description: Super cool test plugin!
 author: Stephen
 contributors: [Brandon, Josh]
 website: https://mcworkshop.org
-commands:
-  arena:
