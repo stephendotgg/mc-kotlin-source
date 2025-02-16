@@ -1,0 +1,12 @@
+[easy]
+string = "banana"
+number = 42
+boolean = true
+array = [1,2,3,4]
+
+[less-easy]
+settings = { max-players = 100, pvp = false }
+inventory = [
+    { slot = 1, item = "DIAMOND" },
+    { slot = 10, item = "NETHER_STAR" }
+]
